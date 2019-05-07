@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="HR offer letter" max_length="40" name="x_snc_hr_offer_let_hr_offer_letter" text_index="true" type="collection">
+    <element extends="task" label="HR offer letters" max_length="40" name="x_snc_hr_offer_let_hr_offer_letter" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" label="HR ID" max_length="40" name="hr_id" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="number" max_length="40" name="u_choice_1" type="string">
             <choice>

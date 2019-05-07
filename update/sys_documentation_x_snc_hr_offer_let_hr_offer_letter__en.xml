@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="HR offer letter" language="en" table="x_snc_hr_offer_let_hr_offer_letter">
+    <sys_documentation element="" label="HR offer letters" language="en" table="x_snc_hr_offer_let_hr_offer_letter">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>HR offer letter</label>
+            <label>HR offer letters</label>
             <language>en</language>
             <name>x_snc_hr_offer_let_hr_offer_letter</name>
             <plural>HR offer letters</plural>
@@ -12,14 +12,14 @@
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-05-07 21:01:09</sys_created_on>
             <sys_id>377e0995db1d3300cab2b7bc29961972</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>HR offer letter</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>HR offer letters</sys_name>
             <sys_package display_value="hr offer letter request" source="x_snc_hr_offer_let">efeccd15db1d3300cab2b7bc29961916</sys_package>
             <sys_policy/>
             <sys_scope display_value="hr offer letter request">efeccd15db1d3300cab2b7bc29961916</sys_scope>
             <sys_update_name>sys_documentation_x_snc_hr_offer_let_hr_offer_letter__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-07 21:01:09</sys_updated_on>
+            <sys_updated_on>2019-05-07 21:40:04</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
