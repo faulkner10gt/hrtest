@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>HR offer letter state</name>
+        <parent>b3ee8d95db1d3300cab2b7bc29961929</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-07 21:03:04</sys_created_on>
+        <sys_id>3bee8d95db1d3300cab2b7bc2996192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR offer letter state</sys_name>
+        <sys_package display_value="hr offer letter request" source="x_snc_hr_offer_let">efeccd15db1d3300cab2b7bc29961916</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hr offer letter request">efeccd15db1d3300cab2b7bc29961916</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_3bee8d95db1d3300cab2b7bc2996192a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-07 21:03:04</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

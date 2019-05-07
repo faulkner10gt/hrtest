@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>3bee8d95db1d3300cab2b7bc2996191c</applets>
+        <display_feed_count>false</display_feed_count>
+        <orientation>horizontal</orientation>
+        <required_roles>x_snc_hr_offer_let.hr person</required_roles>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-07 21:03:04</sys_created_on>
+        <sys_id>4cfe8d95db1d3300cab2b7bc29961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR offer letter</sys_name>
+        <sys_package display_value="hr offer letter request" source="x_snc_hr_offer_let">efeccd15db1d3300cab2b7bc29961916</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hr offer letter request">efeccd15db1d3300cab2b7bc29961916</sys_scope>
+        <sys_update_name>sys_sg_icon_section_4cfe8d95db1d3300cab2b7bc29961951</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-07 21:03:04</sys_updated_on>
+        <title>HR offer letter</title>
+    </sys_sg_icon_section>
+</record_update>

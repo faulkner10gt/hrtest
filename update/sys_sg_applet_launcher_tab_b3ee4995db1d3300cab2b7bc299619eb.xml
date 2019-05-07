@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="hr offer letter request">3fee4995db1d3300cab2b7bc299619e9</applet_launcher>
+        <icon display_value="addressBook">ffee4995db1d3300cab2b7bc299619e8</icon>
+        <label>hr offer letter request</label>
+        <roles>x_snc_hr_offer_let.hr person</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-07 21:03:04</sys_created_on>
+        <sys_id>b3ee4995db1d3300cab2b7bc299619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hr offer letter request</sys_name>
+        <sys_package display_value="hr offer letter request" source="x_snc_hr_offer_let">efeccd15db1d3300cab2b7bc29961916</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hr offer letter request">efeccd15db1d3300cab2b7bc29961916</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_b3ee4995db1d3300cab2b7bc299619eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-07 21:03:04</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>
